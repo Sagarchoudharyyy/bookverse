@@ -44,6 +44,10 @@ The following entities have been identified for the BookVerse application:
 The complete Entity Relationship Diagram (ERD) will be designed after finalizing all database entities and their relationships.
 The ERD will visually represent the relationships between tables and serve as the blueprint for creating JPA entity classes.
 
+<img width="1232" height="703" alt="{6DF4EB49-7AB4-40B2-969B-9114056AF74E}" src="https://github.com/user-attachments/assets/bcebf375-2de0-4be8-b994-7aef6ef943b2" />
+
+
+
 ## 5.4 Table Design
 
 The BookVerse database consists of the following tables:
